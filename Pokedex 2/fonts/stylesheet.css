@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Pokemon Fire Red';
+    src: url('Pokemon-Fire-Red.eot');
+    src: url('Pokemon-Fire-Red.eot?#iefix') format('embedded-opentype'),
+        url('Pokemon-Fire-Red.woff2') format('woff2'),
+        url('Pokemon-Fire-Red.woff') format('woff'),
+        url('Pokemon-Fire-Red.ttf') format('truetype'),
+        url('Pokemon-Fire-Red.svg#Pokemon-Fire-Red') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
